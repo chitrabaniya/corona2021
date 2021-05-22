@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Corona 2021"
+author: "CHITRA BAHADUR BANIYA, PHD"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
